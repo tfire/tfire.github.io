@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "How am I just now finding out about GitHub Pages?"
+permalink: /:categories/migrating-to-github-pages
 date:   2020-02-12 21:40:25 -0500
-categories: jekyll update
+categories: blog
 ---
 # How am I just now finding out about Github Pages?
 &nbsp;
