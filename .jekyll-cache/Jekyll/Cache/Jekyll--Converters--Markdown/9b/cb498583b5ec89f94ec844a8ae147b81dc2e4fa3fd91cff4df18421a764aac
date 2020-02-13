@@ -1,0 +1,39 @@
+I"�<h1 id="how-am-i-just-finding-out-about-github-pages">How am I just finding out about Github Pages?</h1>
+<p> </p>
+
+<p>I mean, honestly, this couldn’t get any better.
+ </p>
+
+<p>I have been looking for this exact solution with these exact benefits in a blogging platform for years. Around the block we’ve been, from SquareSpace to Wordpress to trials in 100% roll-your-own cloud server with Apache – web dev frameworks be damned (sorry). Posts written and long lost over the years, but no more. Now we have found permanence.
+ </p>
+
+<p>Why am I exuberant about GitHub Pages? I’ll tell you.
+ </p>
+
+<ul>
+  <li>[git push] to put a new post on the blog.</li>
+  <li>writing from vim. What can I say, I capture links &amp; notes in the terminal.</li>
+  <li>writing from anywhere with ssh access.</li>
+  <li>all the formatting is in easy markdown.</li>
+  <li>big possibility to write tools that streamline generating post templates.</li>
+  <li>extremely fast &amp; lightweight static pages thanks to <a href="https://jekyllrb.com/docs/home">Jekyll</a>.</li>
+  <li>awesome minimalist theme that was effortless to adopt.</li>
+</ul>
+
+<p> </p>
+
+<p>This hugely boils down to being able to write and maneuver from a shell. When you can get to the point that you’re faster with vim shortcuts and command aliases than you can ever be with a mouse pointer and a wordpress gui, you’ll know the satisfaction of writing blog posts as a shell power user.
+ </p>
+
+<p>And would you just look at the built in highlighting?
+$ rm -rf hello_world
+<code class="highlighter-rouge">$ rm -rf hello_world</code>
+ </p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">digital_root</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">n</span> <span class="o">%</span> <span class="mi">9</span></code></pre></figure>
+
+<p> 
+Going to go migrate some posts from my Wordpress now.</p>
+
+:ET
