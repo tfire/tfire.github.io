@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "How am I just now finding out about GitHub Pages?"
+title:  "I just found out about Github Pages"
 #permalink: /:categories/migrating-to-github-pages
 date:   2020-02-12 21:40:25 -0500
 categories: blog
 ---
-# How am I just now finding out about Github Pages?
+# I just found out about Github Pages
 &nbsp;
 
 I mean, honestly, this couldn't get any better.
