@@ -18,6 +18,3 @@ A long time ago this catchy nickname was coined.
 # How can I reach you?
 
 email:       tyler @ tfire.io
-medium:      tfire
-twitter:     tfire_
-instagram:   tfire_
