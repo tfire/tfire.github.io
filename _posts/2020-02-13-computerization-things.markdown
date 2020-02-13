@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On the computerization of Things, or the Thin Line between Novel and Bauble"
-date:   2020-02-12 21:40:25 -0500
+date:   2020-02-13 21:40:25 -0500
 categories: blog
 ---
 # On the computerization of Things, or the Thin Line between Novel and Bauble
@@ -31,13 +31,13 @@ Consumer IoT has been by far the hardest area to ideate in non-bauble ideas. I b
 I mean, Consumer *Things* are pretty much just that -- baubles. You could take it or leave it. So what else?
 &nbsp;
 
-What about Industrial Things? Here there's more imaginative ground to be had. We can conceive of many possibilities in industrial IoT. Supply chain, manufacturing, energy, oil and gas. Putting sensors online. Data collection, data science, edge computing. I don't see an overlap in edge computing and consumer refrigerators. Factory robots and oil rigs? Moreso. Saving waste, saving energy, making existing processes that *society already depends on* more efficient, economic and ecofriendly -- worthy pursuit, I say.
+What about Industrial Things? Here there's more imaginative ground to be had. We can conceive of many possibilities in industrial IoT. Supply chain, manufacturing, energy, oil and gas. Putting sensors online. Data collection, data science, edge computing. I don't see an overlap in edge computing and consumer refrigerators. Factory robots and oil rigs? Moreso. Saving waste, saving energy, making existing processes that *society already depends on* more efficient, economic, and ecofriendly - well, that's a worthy pursuit, I say.
 &nbsp;
 
-Problems like these are pursuits of infrastructural innovation. Contributing to the energy and material pipelines by helping to preserving resources, doing your part to be useful. Save a company capital by preventing waste and spillage, they'll be on board. Business is an equation; be on the right side of it.
+Problems like these are pursuits of infrastructural innovation. Contributing to the tech involved in energy and material pipelines by devising ways to preserve resources. Doing your part to be *actually* useful. Save a company capital by preventing waste and spillage, they'll be on board. Business is an equation; just be on the right side of it.
 &nbsp;
 
-Are you a computer engineer also looking for meaningful problems? There's a third thing that consistently comes to mind which transcends either side of the consumer/inustrial coin: security. Huge necessity. Super interesting. Get to be the good guy and the bad guy. More about this later.
+Are you a computer engineer also looking for meaningful problems? There's a third thing that consistently comes to mind which transcends either side of the consumer/inustrial coin: security. Huge necessity. Super interesting. Be the good guy and the bad guy at once. More about this later.
 
 &nbsp;
 *Do nothing which is of no use.*
