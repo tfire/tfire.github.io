@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "How am I just finding out about GitHub Pages?"
+title:  "How am I just now finding out about GitHub Pages?"
 date:   2020-02-12 21:40:25 -0500
 categories: jekyll update
 ---
-# How am I just finding out about Github Pages?
+# How am I just now finding out about Github Pages?
 &nbsp;
 
 I mean, honestly, this couldn't get any better.
 &nbsp;
 
-I have been looking for this exact solution with these exact benefits in a blogging platform for years. Around the block we've been, from SquareSpace to Wordpress to trials in 100% roll-your-own cloud server with Apache -- web dev frameworks be damned (sorry). Posts written and long lost over the years, but no more. Now we have found permanence.
+I have been looking for this exact solution with these exact benefits in a blogging platform for years. Around the block, from SquareSpace to Wordpress to trials in 100% roll-your-own cloud server with Apache -- web dev frameworks be damned (sorry). Posts written and long lost over the years, but no more. We have found permanence.
 &nbsp;
 
-Why am I exuberant about GitHub Pages? I'll tell you.
+Why am I exuberant with GitHub Pages? I'll tell you.
 &nbsp;
 
 - [git push] to put a new post on the blog.
@@ -40,7 +40,7 @@ def digital_root(n):
 
 &nbsp;
 Going to go migrate some posts from Wordpress now.
-This is the future! Farewell, 2008.
+This is the future. Farewell, 2008.
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
