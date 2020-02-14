@@ -18,7 +18,7 @@ remote_theme: b2a3e8/jekyll-theme-console
 markdown: kramdown
 #style: dark
 listen_for_clients_preferred_style: true
-#google_analytics: 12345
+google_analytics: UA-74494101-2
 
 plugins:
    - jekyll-seo-tag
