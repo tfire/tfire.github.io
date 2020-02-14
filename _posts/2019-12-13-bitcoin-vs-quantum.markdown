@@ -13,7 +13,7 @@ A common fear I hear throughout the spheres of crypto, Twitter, and independent 
 Some background for the uninitiated: Bitcoin's inherent scarcity, the main thing that fuels its fundamental value, is a product of cryptography and computer science theory. Cryptography obscures (encrypts) data by relying on the fact that its hard for a computer to factor big numbers, but easy to multiply them. Encryption is applying mathematics in the public sphere to transform information into an unreadable form and to cut a key to decipher it. With that secret key, you restore the readable data. Though factoring numbers is not fast, it’s not impossible. With classical computers, it would take our most powerful machine longer than the existence of the known universe to break existing RSA encryption.
 &nbsp;
 
-*Interjection: "military grade encryption." Have you heard this phrase? It's a meme, and a successful one at that. Your Facebook account is "as encrypted" as the military is. But I digres...*
+*Interjection: "military grade encryption." Have you heard this phrase? It's a meme, and a successful one at that. Your Facebook account is "as encrypted" as the military is. But I digress...*
 &nbsp;
 
 When quantum computers can scale, all commonly used public key algorithms will be broken. RSA, elliptic curve, and so on. On one hand, at present Bitcoin does have some resilience if using a wallet address a single time, but this method is basically a proxy for real security and could easily be tripped up by inattentiveness.
