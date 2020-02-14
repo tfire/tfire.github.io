@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "On the computerization of Things, or the thin line between 'novel' and 'bauble'"
+title:  "On the computerization of Things, or the thin line between novel/bauble"
 date:   2020-02-13 21:40:25 -0500
 categories: blog
 ---
-# On the computerization of Things, or the thin line between 'novel' and 'bauble'
+# On the computerization of Things, or the thin line between novel/bauble
 &nbsp;
 
 A war wages in the inner hearts & minds of the tech world. The war between novel ideas and bauble ideas.
