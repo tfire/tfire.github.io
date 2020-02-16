@@ -7,19 +7,19 @@ categories: blog
 # The computerization of Things, or the thin line between novel/bauble
 &nbsp;
 
-A war wages in the inner hearts & minds of the tech world. The war between novel ideas and bauble ideas.
+A war wages in the hearts & minds of the tech industry. The war between novel ideas and bauble ideas.
 &nbsp;
 
-My infinite fascination with embedded computers stems from a childhood tearing apart any object that had a circuitboard in it, collecting bins full of electronic components that had been put to the guillotine as a result of my intrigue.
+My fascination with embedded computers stems from a childhood tearing apart any object that had a circuitboard in it, collecting bins full of electronic components that had been put to the guillotine as a result of my intrigue.
 &nbsp;
 
-As I've gotten older, I've gotten wiser, more contemplative, and I can't help but to stop and ponder the line between really useful embedded things, and embedded things you'd see in HBO's Silicon Valley - like changing the world with a computer fridge.
+I've gotten older, I've gotten wiser, more contemplative, and I can't help but to stop and ponder the line between really useful embedded things, and embedded things you'd see in HBO's Silicon Valley - like changing the world with a computer fridge.
 &nbsp;
 
 I mean no disrespect to anyone that seeks to change the world with computer fridges, smart homes, smart clothes, and so on.
 &nbsp;
 
-Just not my cup of tea. I don't care to work as the means to an end of more needless consumer dainties. Sometimes it feels like technology for technology's sake. And I'm more interested in the arc of what these millions, billions of connected devices implicate, what kinds of threats and opportunities they pose, for rogue hackers and industrial data scientists alike.
+Just not my cup of tea. To work as the means to an end of more needless dainty consumer conveniences. Sometimes it feels like technology for technology's sake. And I'm more interested in the arc of what these millions, billions of connected devices implicate, what kinds of threats and opportunities they pose, for rogue hackers and industrial data scientists alike.
 &nbsp;
 
 In trying to conceive of some really *novel* ideas, I've stumbled upon this thin line holding up the novel/bauble dichotomy.
