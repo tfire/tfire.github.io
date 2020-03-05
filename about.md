@@ -6,7 +6,9 @@ permalink: /about
 
 # Who are you?
 
-Computer scientist musician. Currently I'm working as an embedded software engineer. Ideating in embedded and distributed cyber infrastructure. Also enjoy synthesizers and drum machines.
+A computer scientist and a musician. A problem solver.
+&nbsp;
+I design and assemble high-level solutions in the age of information.
 
 # How can I reach you?
 
