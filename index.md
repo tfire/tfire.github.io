@@ -1,5 +1,5 @@
 ---
-title: tfire.io
+title: blog
 layout: home
 permalink: /
 ---
