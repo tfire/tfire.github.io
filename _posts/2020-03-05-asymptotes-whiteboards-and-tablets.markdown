@@ -10,7 +10,7 @@ categories: blog
 Here’s a thought.
 &nbsp;
 
-An asymptotic curve models the relationship for the rate of added usefulness of consumer computer technology over time, where consumer computer technology is anything that makes you or your life more *androidic.* I’m talking about any technologies you use that have a computerized component versus technologies that are analog (plain paper, a whiteboard, a pencil; these are technologies).
+An asymptotic curve models the relationship for the rate of added usefulness of consumer computer technology over time, where consumer computer technology is anything that makes you or your life more *androidic.* I’m talking about any technologies you use that have a computerized component versus technologies that are analog (plain paper, a whiteboard, a pencil; these are also technologies, which people seem to forget).
 &nbsp;
 
 Consider the real genesis of *consumer computer technology* to be a personal computer made available sometime like 1976. Now evolved significantly. Laptops, tablets, phones.
