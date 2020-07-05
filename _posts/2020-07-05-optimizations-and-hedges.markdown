@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optimizations, and hedges"
+title:  "Optimizations and hedges"
 date:   2020-07-05 21:40:25 -0500
 categories: blog
 ---
