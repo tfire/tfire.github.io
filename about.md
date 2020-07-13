@@ -6,9 +6,8 @@ permalink: /about
 
 # Who are you?
 
-A computer scientist and a musician. A problem solver.
+a systems theorist
 &nbsp;
-I design and assemble high-level solutions in the age of information.
 
 # How can I reach you?
 
