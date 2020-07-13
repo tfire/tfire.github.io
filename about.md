@@ -7,7 +7,6 @@ permalink: /about
 # Who are you?
 
 a systems theorist
-&nbsp;
 
 # How can I reach you?
 
